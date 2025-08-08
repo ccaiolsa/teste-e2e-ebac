@@ -1,0 +1,34 @@
+[
+    {
+
+        "nome": "Ajax Full-Zip Sweatshirt",
+        "tamanho": "XS",
+        "cor": "Red",
+        "quantidade": 2
+
+    },
+    {
+
+        "nome": "Aero Daily Fitness Tee",
+        "tamanho": "L",
+        "cor": "Yellow",
+        "quantidade": 3
+
+    },
+    {
+
+        "nome": "Stark Fundamental Hoodie",
+        "tamanho": "XS",
+        "cor": "Blue",
+        "quantidade": 4
+
+    },
+    {
+
+        "nome": "Grayson Crewneck Sweatshirt",
+        "tamanho": "M",
+        "cor": "Orange",
+        "quantidade": 6
+
+    }
+]
