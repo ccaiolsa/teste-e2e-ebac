@@ -14,4 +14,5 @@ class SelecionarProdutos {
 
 }
 
+
 export default new SelecionarProdutos()
