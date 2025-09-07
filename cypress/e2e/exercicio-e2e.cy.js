@@ -1,7 +1,7 @@
 /// <reference types="cypress" />
 import {faker} from '@faker-js/faker/locale/pt_BR';
 import SelecionarProdutos from "../support/page_objects/funcionliada.page";
-import 'cypress-mochawesome-reporter/register'; 
+
 const produtos = require ('../fixtures/produtos.json')
 describe("Exercicio - Testes End-to-end - Fluxo de pedido", () => {
   /*  Como cliente 
